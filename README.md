@@ -1,2 +1,2 @@
 # desafios_crud_netcore_angular
-Crud whin NetCore and Angular Plus
+Crud whin NetCore and Angular Plus ok
